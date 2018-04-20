@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 简介
 Surge、Shadowrocket、Pepi(ShadowRay)、Kitsunebi、Postern 的配置规则
 
@@ -52,3 +53,6 @@ Shadowrocket / Pepi(ShadowRay)
 # 许可
 
 转载需注明作者及项目地址
+=======
+# learning1
+>>>>>>> c3c2030077e975015e78c87fa708cfa9ec819ad4
